@@ -38,6 +38,7 @@ The dataset contains 10,000 employees with 37 features for each, 23 of which are
 
 # Tools
 •	Numpy and Pandas for data manipulation
+
 •	Matplotlib and Seaborn for plotting
 
 
